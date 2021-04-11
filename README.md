@@ -1,0 +1,1 @@
+# Nokta-bulut-verileri-ile-nesne-modelleme
